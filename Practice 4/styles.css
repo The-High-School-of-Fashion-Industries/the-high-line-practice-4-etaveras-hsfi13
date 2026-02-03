@@ -29,7 +29,7 @@ nav ul{
     size: 100%;
 }
 
-#leveltwoheading{
+.leveltwoheading{
     size: 110%;
     color: #1b7f7a;
    block
@@ -41,3 +41,4 @@ nav ul{
     padding:1em;
     margin: auto;
 }
+
